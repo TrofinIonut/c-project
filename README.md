@@ -1,0 +1,1 @@
+This is a simple Cinema Ticket Booking System built in C++ that allows users to view available movies, their showtimes, and purchase tickets for selected movies. It features options to view programs for specific days, the entire week, or movies by genre. Users can also buy tickets by selecting seats, and payment validation is implemented.
